@@ -1,5 +1,11 @@
 {
   "dependencies": {
-    "expo": "^54.0.32"
+    "expo": "^54.0.32",
+    "expo-router": "^6.0.22",
+    "expo-splash-screen": "~31.0.13"
+  },
+  "devDependencies": {
+    "@types/react": "~19.1.10",
+    "typescript": "~5.9.2"
   }
 }
