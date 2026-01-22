@@ -11,3 +11,9 @@
     "typescript": "~5.9.2"
   }
 }
+{
+  "name": "prodev-mobile-app-0x06",
+  "version": "1.0.0",
+  "main": "index.js",
+  ...
+}
